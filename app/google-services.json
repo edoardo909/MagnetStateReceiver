@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "983175251988",
+    "firebase_url": "https://magnetstatereceiver.firebaseio.com",
+    "project_id": "magnetstatereceiver",
+    "storage_bucket": "magnetstatereceiver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983175251988:android:ab4712af3815cf4a",
+        "android_client_info": {
+          "package_name": "it.parello.magnetstatereceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983175251988-q9a5avipl5j830hjnnofdgc2fklsenk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpDZaCkZtp4fTU-JnQyx3Cm_sxOQ67Xpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

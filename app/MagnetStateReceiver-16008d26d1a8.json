@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "magnetstatereceiver",
+  "private_key_id": "16008d26d1a846c83d0c4234e15f2c5f38b6e635",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/qyBD+c78s0mQ\n6OpWkMU/ydLkLS39ks/nPuhPAles3r0adK22g7+8d/Gm8IPTnyOJSHLH8UiBMR2H\nPgJqwfZSzLqxsDekilC3/Ha2wLab8JJ6mO6FPPlMOptdtdc3lg98Jw0SJz9F/KLh\nEqPtJu/ec8D07+btf3eRMFYI6d9Xaaop6OT/SO+jm/yuVDj8BRZLpTBmGH1a6hBB\n/feb9Ho+aNRbckxM7e+4x6lEHziTTdgArIkHoOL5aeOLelpCtVt2/4zSJr3b6QdH\nxzblAm7zRXuPAyQFt3ffwjfRNHrRrAnuZ+IVglREO3dxBEhdAPBs5RP+wnM6NmB4\njjPGxzeRAgMBAAECggEACjh/IjjUQZPy8JQHCQIzzoS95vaEzRCS3xcy7qGmmLyQ\n83P03nZ0l0GDJJ6PPQ3vqG6xVjmm3uLGWxOir9wzfTNXIkoOEYthpgoDr5ejtTmV\nKg31LCw19AttBQiBF0D8hueTMhxfKqV/7wYeMTOCF4fvKnCPjSsermKYN+X2x7Ou\nNskY/xWdwsE9AaoFL7O476G+yTthroVksa5vtP0AltIk8TuVATqtqzjKE+5gL2vI\n7uXR6ueTOq6NZEwJt5qXXSHOJx0dEig+GdCamlQSw6bBNeBGVPqF0CrnUEoBTnC0\nO0TGPSlKyLXlwkuwLT/gr2Em/tO+KTcNWApESuckNQKBgQD6XWMQLSaQ6H79RDbB\nu8CjgQ0PyG5jvtO6u8RgGjppWBIDMXJPcJa1j+nRt0gUxiSHmj3I4gaMdWbnI24A\nH2bSeJCTdUC+JgJLN0+LZqo/KuofYAZeOCnbS6dMTIDG0Lb6P73Bq8GGN8Zosh6V\nCmJzIj6U5nlUur25xHtttxTe/QKBgQDD+4c4hdVRyv2pu/kbVtX90UPpPQzVLjPg\nNF+xARRmNyy7fYGb/28GAtCZEVb1FL/zX8Qx8mZWRu9UnSAASHW++6yTuwuZwnDx\nkjztXvq6SYAD0BbtTeJhW6qWmrWZyIPo6k9nDUBAFax+bHSG6vZlwjXz6opHP3N7\niFCl2rQBJQKBgBSzohxVT2oN/2obuNdeGfirFBRpA0+2GLXJDtzPbmMFiD/BV+1f\npuaOZswTdp9ZHu4jf9ZbciUtE/wqvs69yfe/Rl0bBeZzKB9mDGq/a3Zbqw47F2u1\nAykB4Wx6qu9FlMuud5dLB258sCg6CjNSr39LppcTU5cA9e0lZPtWdyBVAoGAYUZq\ngpqjHBsGNwZPCcvbIUWKUK11viZVp1Y3nPKtPmLqeBE+kMCDSdeB1EfwAmuPLux8\nxFHNi8tfpX7r0Fgm4Wmn6hewFVyWlMECLsuy5V3wBXR2vMiosaw/Csu1kaQeHTCX\nws2n82cOnB2W5RSgwjdYcj4a7mxHFKy/YuMf72UCgYEA52A9+Es7auZGADUctvxZ\nD68OK49t+uhrQkBI5L5iCGaxBgjRICefmShi6i2oVdU6klm+lv58PJlrhuMU1apU\n1PM874Eo8ZR+bxAfYD7TcnWdfj5Ui8t/O4IBp1L6iRDse1ybVcY93kD67DefhzG8\nK7WufoNi+nsYAtNqXWDIlX4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "magnetstatereceiver@appspot.gserviceaccount.com",
+  "client_id": "100365506836265049651",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/magnetstatereceiver%40appspot.gserviceaccount.com"
+}

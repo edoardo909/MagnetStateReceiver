@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Parello\.android\build-cache\bd7865e13501a3b7b6b86f1a2b1772c6197a0942\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a3f3679b7f877faed8c10700c97407536560fa3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\f8e3aafe40cd5133f51df88382f77be07785a0ff\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5b39fc40ac9e0ddee789a7420d6ddb364fccedba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\a54459a34050a7ff30d86c5d6d89d2f86304f17d\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-90c88e8e231adcabb16ea301270e1c97262ad972.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\b68f1b273c690e9e499f8bbbc47928cb27803997\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ff9caca884733ce8f448ce1a3e225152096a70fc.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-15f47134d0ef59157c09980f74bf37b563287470.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk1\platforms\android-25\android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-db034c120e0866751848e5aa060350fe520190dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\9a8710dfd383c199fa3d2bedfae6a4e863cbf4c1\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6c39aaa1cc159d9097c1152a67cff993ecb903a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\33689518fb2e7ba067a09976174c954db0127007\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d88cfcc5582bf61797ff79787a318f0a2099b510.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\c169b98e000f50d0ed93e6c93ea1271cd9617a13\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="374d595ee099a19b6c1c3718cdb4c345be7a3d45">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-87b1fea5b8292ab070b8ff011025bd925cd9af5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\7e18146adbf649c7b9b7eedd98fb48543bb52d27\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5968ef418e53201d00a32073ad8c71e1a35b2ee3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\711595b68d39aaaeea9e53ea459179807b90829e\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a46cbb417a3f469de4c35931278fc151d33d4c75.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk1\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-68b4d964125ac1f426e107fb533b637362afb6f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\b761f064658137ed20dcf171c22b4052b33ed110\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-87ea87f52ca3418ac06adff4fcebc77172d9a40a.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-aefe31071e530355367f8ce426b1515a0a2bd4a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\490f9e3dbb45dc4b73802d74e6e47b7a0d53993f\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d42aac9f983fe61f89d0f4d21d4e86333f408234">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f08f66bede789a228cc9c816db436674ae984bb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\efddcc2361c0d0731bf13c2618e0abc7d94851f4\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9e134b33d3a2c48323131d977a5061e4fd72a498.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\60bd46dbd87fd9895289357f40460b84c0d5a0c9\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-dd7750fe11645b5999b32942420acf6de0d8021d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\739dff481b022714251b79c2a0b537f45807aaa0\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4d128a7829dc9a0ee941fdafb31a6850f2f05a52.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\0ad3191456e889330990ffd064939c5ecf2844c7\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-213e465f1c8cb85319d8cdae0631115c264c18bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\d518917a294519d4515082161dd73694e34f7018\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ad532b9da6fe664bddf954023373d163b4373720.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\a9f4d480e838ab73ed4a70e57de58b789562209c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6c6a85390fafec2930e317d1d91a83ecd5fe300e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\bd00222ba4aa1f002a7c0c3fff6dc1acdc363585\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2cb7d92e5c54b869a4b47862817bc3f3d1ea2cbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\330a89691ace3e2aa7d87c66978116cd8cef6843\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0b3739921e5e4c2b956c8e621f9c483427a2d229.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\087c76185e21502483faed22cdf9211984369919\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0133c65de50c5d5a788eedc3d63bf5399385a372.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parello\.android\build-cache\3455643a5d23d20db86a1640b86a4ce68f113103\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\MagnetStateReceiver\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e9991281233570eeef99057c48d2c333f2505ebd.jar" />
+    </item>
+
+</items>
